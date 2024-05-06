@@ -24,13 +24,13 @@ Zoe Empowers is a charitable organisation that helps empower vulnerable children
 The project entailed the development of three reports: "Findings", "Analysis", and "Recommendations", with detailed descriptions of each available in the Project Delivery section. The concluding phase of our project required our team to showcase a presentation to SAS Institute Australia at the PACE Presentation Night. Our presentation outlined the problem being addressed, what we did to address the problem, and how we went about coming up with solutions. Furthermore, our team highlighted significant insights extracted from the three reports, delving into various facets of the Zoe Empowers program that could benefit from improvements to enhance its overall success. The excellence of our project left such an impression on SAS Institute Australia that they invited us to celebrate and share our presentation with the wider team at the SAS Lane Cove office.
 
 ### Project Phases
-1. **Feasibility Study:** A Feasibility Report to understand the business problem and consider solutions.
-2. **Project Plan & Scoping/Requirements Document:** Project Plan and Scoping/Requirement Document.
-3. **Increment 1:** Updated Deliverable 2, Design and Testing Document, Prototype development, and demonstration.
-4. **Increment 2:** Updated Deliverable 3 and demonstration to the client.
-5. **Project Presentation:** We presented our project, including the problem being addressed, solution proposed, methods, and technology used.
-6. **Final Reflective Report:** This report reviews the semester and all project goals, activities, and outcomes.
-7. **Delivery of Product to Sponsor:** Delivery of Final Product (e.g., Findings, Analysis, Recommendations Report, as well as the Presentation Slides) as agreed with the Sponsor.
+1. **Deliverable 1 - Feasibility Study:** A Feasibility Report to understand the business problem and consider solutions.
+2. **Deliverable 2 - Project Plan & Scoping/Requirements Document:** Project Plan and Scoping/Requirement Document.
+3. **Deliverable 3 - Increment 1:** Updated Deliverable 2, Design and Testing Document, Prototype development, and demonstration.
+4. **Deliverable 4 - Increment 2:** Updated Deliverable 3 and demonstration to the client.
+5. **Deliverable 5 - Project Presentation:** We presented our project, including the problem being addressed, solution proposed, methods, and technology used.
+6. **Deliverable 6 - Final Reflective Report:** This report reviews the semester and all project goals, activities, and outcomes.
+7. **Deliverable 7 - Delivery of Product to Sponsor:** Delivery of Final Product (Findings, Analysis, Recommendations Report, as well as the Presentation Slides) as agreed with the Sponsor.
 
 ## Project Delivery
 - **Reports:**
