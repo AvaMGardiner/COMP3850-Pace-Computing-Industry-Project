@@ -8,17 +8,19 @@ This PACE unit draws together learning in previous units to prepare students for
 
 ### Project Overview
 
-| Information           | Details                                                                                                                                               |
-|-----------------------|---------------------------|
-| Group Number          | 31                        |
-| Group Members         |
-|                       | Ava Gardiner            |
-|                       | Tabitha Philip          |
-|                       | Cassandra Johns         |
-|                       | Lachlan Yates           |
-|                       | Rory Ali                |
-| Sponsor               | SAS Institute Australia   |
-| Project Type          | Data Analysis and Reporting |
+**Group Number:** 31 
+
+**Group Members:**
+
+  - Ava Gardiner
+  - Tabitha Philip
+  - Cassandra Johns
+  - Lachlan Yates
+  - Rory Ali
+    
+**Sponsor:** SAS Institute Australia
+
+**Project Type:** Data Analysis and Reporting
 
 I had the privilege of collaborating with four other talented students as part of Macquarie University's Professional and Community Engagement (PACE) program. Together, we partnered with SAS Institute Australia to investigate the work of their affiliated organization, Zoe Empowers.
 
