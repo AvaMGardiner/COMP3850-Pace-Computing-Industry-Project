@@ -14,9 +14,8 @@ This PACE unit draws together learning in previous units to prepare students for
   - Cassandra Johns
   - Lachlan Yates
   - Rory Ali
-  
-**Sponsor:** SAS Institute
-**Project Type:** Data Analyse and Reporting
+- **Sponsor:** SAS Institute
+- **Project Type:** Data Analyse and Reporting
 
 I had the privilege of collaborating with four other talented students as part of Macquarie University's Professional and Community Engagement (PACE) program. Together, we partnered with SAS Institute Australia to investigate the work of their affiliated organisation, Zoe Empowers.
 
