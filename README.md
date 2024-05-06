@@ -28,9 +28,11 @@ The project entailed the development of three reports: "Findings", "Analysis", a
 2. **Deliverable 2 - Project Plan & Scoping/Requirements Document:** Project Plan and Scoping/Requirement Document.
 3. **Deliverable 3 - Increment 1:** Updated Deliverable 2, Design and Testing Document, Prototype development, and demonstration.
 4. **Deliverable 4 - Increment 2:** Updated Deliverable 3 and demonstration to the client.
-5. **Deliverable 5 - Project Presentation:** We presented our project, including the problem being addressed, solution proposed, methods, and technology used.
-6. **Deliverable 6 - Final Reflective Report:** This report reviews the semester and all project goals, activities, and outcomes.
-7. **Deliverable 7 - Delivery of Product to Sponsor:** Delivery of Final Product (Findings, Analysis, Recommendations Report, as well as the Presentation Slides) as agreed with the Sponsor.
+5. **Deliverable 5 - Project Presentation:** At the PACE Presentation Night, our team had the opportunity to showcase our project. We presented not only to our sponsors but also to other teams, their respective sponsors, and the COMP3850 PACE Marker. We discussed the challenges that had been faced, the solutions that had been proposed, the methodologies that had been adopted, and the technologies that had been utilised in our project.
+7. **Deliverable 6 - Final Reflective Report:** This report reviews the semester and all project goals, activities, and outcomes.
+8. **Deliverable 7 - Delivery of Product to Sponsor:** Delivery of Final Product (Findings, Analysis, Recommendations Report, as well as the Presentation Slides) as agreed with the Sponsor.
+
+-----
 
 ## Project Delivery
 - **Reports:**
