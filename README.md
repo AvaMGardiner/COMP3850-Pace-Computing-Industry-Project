@@ -32,7 +32,7 @@ The project entailed the development of three reports: "Findings", "Analysis", a
 7. **Deliverable 6 - Final Reflective Report:** This report reviews the semester and all project goals, activities, and outcomes.
 8. **Deliverable 7 - Delivery of Product to Sponsor:** Delivery of Final Product (Findings, Analysis, Recommendations Report, as well as the Presentation Slides) as agreed with the Sponsor.
 
-## Project Delivery
+### Project Delivery
 - **Reports:**
   - **Findings:** The Findings Report provides detailed data visualizations and an exploration of the raw data.
   - **Analysis:** The Analysis Report identifies any vulnerabilities/gaps that may exist within the program's structure and activities, based on key information derived from the Findings Report.
