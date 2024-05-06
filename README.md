@@ -5,7 +5,7 @@ This PACE unit draws together learning in previous units to prepare students for
 
 ## Project Overview
 
-### Details
+### Group Details
 - **Group Number:** 31 
 - **Group Members:**
   - Ava Gardiner
@@ -16,7 +16,7 @@ This PACE unit draws together learning in previous units to prepare students for
 - **Sponsor:** SAS Institute Australia
 - **Project Type:** Data Analysis and Reporting
 
-### About
+### About Project
 I had the privilege of collaborating with four other talented students as part of Macquarie University's Professional and Community Engagement (PACE) program. Together, we partnered with SAS Institute Australia to investigate the work of their affiliated organisation, Zoe Empowers.
 
 Zoe Empowers is a charitable organisation that helps empower vulnerable children and youth-led families with solutions to overcome extreme poverty and achieve self-sufficiency. To assess the success of their program, our team was asked by SAS Institute Australia to leverage data analytics methods and tools, such as SAS Viya (SAS Institute Australia's specialized software) and Python, to extract key insights regarding the program and its participants' engagement/success before, during, and after the program. Our primary objective was not to deliver any solutions to SAS Institute Australia regarding any aspects of the Zoe Empowers program. Furthermore, we did not engage in projecting future data outcomes but instead focused on analysing the current efforts of the program and how they can be improved for future intakes.
