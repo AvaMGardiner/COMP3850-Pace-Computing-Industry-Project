@@ -5,7 +5,7 @@ This PACE unit draws together learning in previous units to prepare students for
 
 ## Project Overview
 
-### Group Details
+### Details
 - **Group Number:** 31 
 - **Group Members:**
   - Ava Gardiner
