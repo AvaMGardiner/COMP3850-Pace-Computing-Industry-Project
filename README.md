@@ -8,7 +8,7 @@ This PACE unit draws together learning in previous units to prepare students for
 
 ### Project Overview
 
-| Information           | Details                   |
+| Information           | Details                                                                                                                                               |
 |-----------------------|---------------------------|
 | Group Number          | 31                        |
 | Group Members         |
